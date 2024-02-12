@@ -1,1 +1,7 @@
-/* write down the css for Carousel in this file */
+/* write down the css for Carousel in this file *//* write down the css for Carousel in this file */
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
